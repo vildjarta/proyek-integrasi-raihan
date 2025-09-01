@@ -60,7 +60,7 @@
                     <button type="submit" class="btn btn-success w-100">Masuk</button>
                 </form>
                 <div class="mt-3 text-center">
-                    <small>Belum punya akun? <a href="#">Daftar di sini</a></small>
+                    <small>Belum punya akun? <a href="/data">data</a></small>
                 </div>
             </div>
         </div>

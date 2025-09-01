@@ -7,3 +7,7 @@ Route::get('/', function () {
     return view('login');
 });
 
+Route::get('/data', function () {
+    // return view('welcome');
+    return view('data');
+});
