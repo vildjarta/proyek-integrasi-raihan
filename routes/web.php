@@ -7,12 +7,12 @@ Route::get('/', function () {
     return view('login');
 });
 
-Route::get('/data', function () {
-    // return view('data');
-    return view('data');
-});
-
 Route::get('/home', function () {
     // return view('home');
     return view('home');
+});
+
+Route::get('/about', function () {
+    // return view('about');
+    return view('about');
 });
