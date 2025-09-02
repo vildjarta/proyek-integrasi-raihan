@@ -61,6 +61,7 @@
                 </form>
                 <div class="mt-3 text-center">
                     <small>Belum punya akun? <a href="/data">data</a></small>
+                    <small>sudah punya akun? <a href="/home">home</a></small>
                 </div>
             </div>
         </div>
